@@ -27,4 +27,4 @@ Este projeto tem como objetivo demonstrar o funcionamento do processamento assí
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/AOP3-ecommerce-xmlhttprequest.git
+git clone https://github.com/viniciuspaiva21/AOP3-ecommerce-xmlhttprequest.git
